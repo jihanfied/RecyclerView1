@@ -4,7 +4,7 @@ RecyclerView List
 * Judul Project : RecyclerView1
 * Screenshoots  :
  * RecyclerView List
-  ![RecyclerView1](https://github.com/jihanfied/RecyclerView1/blob/master/XIIRPL2%2320%23RecylerView1(1).png
+  ![RecyclerView1](https://github.com/jihanfied/RecyclerView1/blob/master/XIIRPL2%2320%23RecylerView1(1).png)
  * RecyclerView List Round Image
   ![RecyclerView1](https://github.com/jihanfied/RecyclerView1/blob/master/XIIRPL2%2320%23RecylerView1(2).png)
 * Identitas :
